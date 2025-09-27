@@ -5,51 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="176969f6-2d36-4b8d-9bff-a3ac436f1a7a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/jewelryshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/jewelryshop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/jewelryshop/static/img/hero-jewlrey-banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/jewelryshop/static/img/hero-jewlrey-banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/category/bead-necklace.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/category/bracelets.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/category/ear-rings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/category/gifts.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/category/necklaces.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/category/rings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/category/watches.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Anne-Klein-Gold-Watch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Beads-Necklace.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Bracelet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Bracelets.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Casio-Touch-Watch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Leafy-Earrings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Necklace-with-Diamonds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Ring-with-Blue-Stones.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Ring-with-White-Stone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Star-Earrings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Watch-with-White-Dial-and-Diamonds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-Watch-with-White-Dial.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-and-Steel-Rado-Watch-with-Black-Dial.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Gold-ring-with-pink-stone-and-diamonds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Mangalsutra-with-Gold-Locket.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Mr-Boho-Gold-Watch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/SIlver-Ring-with-Diamonds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Silver-Earrings-with-Blue-Stone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Silver-Necklace-with-Big-Diamond.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Silver-Ring-with-Blue-Stone-and-Diamonds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/Silver-Ring-with-Red-Stone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/gold-and-diamond-ring.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/gold-bitcoin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/media/product/platinum-ring-with-diamonds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/store/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/store/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/store/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/store/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/store/category_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/store/category_products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/store/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/store/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/store/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/store/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/store/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/store/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-jewelry-shop/templates/store/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-jewelry-shop/templates/store/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/bookshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/bookshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/bookshop/static/img/hero-jewlrey-banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/bookshop/static/img/hero-jewlrey-banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/category/bead-necklace.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/category/bracelets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/category/ear-rings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/category/gifts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/category/necklaces.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/category/rings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/category/watches.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Anne-Klein-Gold-Watch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Beads-Necklace.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Bracelet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Bracelets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Casio-Touch-Watch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Leafy-Earrings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Necklace-with-Diamonds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Ring-with-Blue-Stones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Ring-with-White-Stone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Star-Earrings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Watch-with-White-Dial-and-Diamonds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-Watch-with-White-Dial.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-and-Steel-Rado-Watch-with-Black-Dial.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Gold-ring-with-pink-stone-and-diamonds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Mangalsutra-with-Gold-Locket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Mr-Boho-Gold-Watch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/SIlver-Ring-with-Diamonds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Silver-Earrings-with-Blue-Stone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Silver-Necklace-with-Big-Diamond.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Silver-Ring-with-Blue-Stone-and-Diamonds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/Silver-Ring-with-Red-Stone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/gold-and-diamond-ring.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/gold-bitcoin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/media/product/platinum-ring-with-diamonds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/store/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/store/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/store/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/store/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/store/category_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/store/category_products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/store/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/store/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/store/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/store/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/store/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/store/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-book-shop/templates/store/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-book-shop/templates/store/shop.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/django-jewelry-shop" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/django-book-shop" />
   </component>
   <component name="ProjectId" id="1ySLfSLAT71DjS1Bw9mL3KZ3e1B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
