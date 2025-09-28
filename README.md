@@ -1,6 +1,5 @@
 # Novella Nest — Ecommerce Book Selling Website
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 
 An online bookstore built with **Django 3.2**, featuring product listings, cart & checkout, user accounts, and an admin interface for managing inventory and orders.  
 
